@@ -77,6 +77,5 @@ dp-ml-dashboard/
 └── LICENSE                # MIT License
 ```
 
-## 📺 Live Demo
-*(Update this link after deploying to Streamlit Cloud)*
-[View Live Dashboard](https://your-app-url.streamlit.app)
+## Live Demo
+https://dp-ml-dashboard-khnkbgmkb295c7c3hkkpyr.streamlit.app/
