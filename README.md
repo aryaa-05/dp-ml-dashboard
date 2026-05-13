@@ -29,12 +29,7 @@ The dashboard uses the **METABRIC Breast Cancer Gene Expression Profiles** datas
 - **Accuracy**: ~85%
 - **Tradeoff**: As privacy guarantees strengthen (lower ε), accuracy typically decreases. The dashboard includes interactive Plotly charts showing this exact relationship.
 
-##  Screenshots
-*(Add screenshots of your deployed dashboard here)*
-- **Home Page**: `![Home](assets/Home.png)`
-- **Tradeoff Chart**: `![Tradeoff](assets/Tradeoff.png)`
-
-## 🚀 Installation & Local Run
+## Installation & Local Run
 
 1. **Clone the repository:**
    ```bash
@@ -58,33 +53,7 @@ The dashboard uses the **METABRIC Breast Cancer Gene Expression Profiles** datas
    streamlit run app.py
    ```
 
-## 🌐 Deployment Instructions (Streamlit Community Cloud)
-
-To deploy this app for free so anyone can access it:
-
-1. **Push to GitHub** (see instructions below).
-2. Go to [share.streamlit.io](https://share.streamlit.io/) and log in with your GitHub account.
-3. Click **"New app"**.
-4. Select your `dp-ml-dashboard` repository.
-5. Select the `main` branch.
-6. Set the Main file path to `app.py`.
-7. Click **"Deploy"**.
-
-## 🐙 GitHub Setup Instructions
-
-Run the following commands in your terminal from the project root to push this code to GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: DP-ML dashboard"
-git branch -M main
-# Replace <your-username> with your actual GitHub username
-git remote add origin https://github.com/<your-username>/dp-ml-dashboard.git
-git push -u origin main
-```
-
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 dp-ml-dashboard/
