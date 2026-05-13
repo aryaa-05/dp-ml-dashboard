@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+jupyter
+opacus
+torch
+kagglehub
